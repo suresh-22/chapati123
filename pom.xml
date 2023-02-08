@@ -15,16 +15,9 @@
     <repository>
     <id>suresh-2243</id>
       <url>http://3.144.229.24:8081/repository/suresh-2243/</url>
-      <layout>default</layout>
-            <releases>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-                <checksumPolicy>warn</checksumPolicy>
-            </releases>
     </repository>
   </distributionmanagement>
-
-  <properties>
+   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
