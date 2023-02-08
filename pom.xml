@@ -12,12 +12,13 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
   
-   <distributionmanagement>
-      <repository>
+   <distributionManagement>
+    <repository>
          <id>suresh-2243</id>
          <url>http://3.137.146.208:8081/repository/suresh-2243/</url>
-     </repository>
-  </distributionmanagement>
+         <layout>default</layout>
+    </repository>
+  </distributionManagement>
    
   
   <properties>
